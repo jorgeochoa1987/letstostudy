@@ -1,2 +1,0 @@
-# letstostudy
-applying test code
